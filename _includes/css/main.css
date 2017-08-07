@@ -112,7 +112,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 20px;
-        padding-bottom: 20px;
+        padding-bottom: 10px;
     }
 
     header .intro-text .name {
@@ -172,7 +172,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 50px 0;
+    padding: 30px 0;
 }
 
 section h2 {
@@ -213,6 +213,11 @@ semi-section .container {
     semi-section .container{
         padding: 20px 0;
     }
+}
+
+#message .name {
+  font-size: 28px;
+  margin-top: 60px;
 }
 
 #about .h2 {
